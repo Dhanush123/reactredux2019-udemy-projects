@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "stream1",
+      "description": "descrip1",
+      "id": 1
+    },
+    {
+      "title": "streamy",
+      "description": "descripy",
+      "userId": "108144896765663754360",
+      "id": 2
+    }
+  ]
+}
